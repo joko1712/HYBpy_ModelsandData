@@ -49,4 +49,5 @@ If you use these files in your work, please cite my master's thesis:
 ## References
 
 > Chassagnole C, Fell DA, Raïs B, Kudla B, Mazat JP. Control of the threonine-synthesis pathway in Escherichia coli: a theoretical and experimental approach. Biochem J. 2001 Jun 1;356(Pt 2):433-44. doi: 10.1042/0264-6021:3560433. PMID: 11368770; PMCID: PMC1221854.
+
 > Park S, Ramirez WF. Effect of transcription promoters on the optimal production of secreted protein in fed-batch reactors. Biotechnol Prog. 1990 Sep-Oct;6(5):311-8. doi: 10.1021/bp00005a001. PMID: 1366871.
