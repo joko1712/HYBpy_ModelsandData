@@ -30,7 +30,7 @@ Visit the official HYBpy website for more information, access to the tool, and a
         ```bash
         git clone https://github.com/joko1712/HYBpy_ModelsandData.git
         ```
-    - Or download the files directly from the repository.
+    - Or download the folders/files directly from the repository.
 
 2. **Load files into HYBpy**:
 
